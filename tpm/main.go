@@ -1,3 +1,6 @@
+// Heavily inspired by the example on / thanks to
+// https://ericchiang.github.io/post/tpm-keys/
+
 package main
 
 import (
